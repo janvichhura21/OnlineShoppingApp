@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748279411981",
+    "project_id": "onlineshhoppingapp",
+    "storage_bucket": "onlineshhoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748279411981:android:7c9f86dbe849c6e0fcec44",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748279411981-di820i2jasg5jvuap3roua3i22fqiilf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineshoppingapp",
+            "certificate_hash": "e7abcd2d23a6508eb1f6722e0410ffa5d6a7ab7b"
+          }
+        },
+        {
+          "client_id": "748279411981-b09vorn46rdkab2ss007e1saigomgg8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScQj9YP7WmgKKsRJnA-LjD99yFXm1x4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748279411981-b09vorn46rdkab2ss007e1saigomgg8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
